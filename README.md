@@ -1,5 +1,6 @@
 **NetsInfo**
-É um simples script feito com ping que monitora ou floda algum ip, site etc.
+
+É um simples script opensource feito com ping que monitora ou floda algum ip, site etc.
 
 >Monitor
 __Esse modo dá ping com verbose no alvo para ver se está no ar ou para outros fins. (ms etc.)__
